@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { add } from "./utils/calculator";
 import MainView from "./components/MainView";
 import Button from "./components/Button";
